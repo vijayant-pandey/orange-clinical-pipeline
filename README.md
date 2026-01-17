@@ -1,3 +1,7 @@
+![CI](https://github.com/vijayant-pandey/orange-clinical-pipeline/actions/workflows/ci.yml/badge.svg)
+![Release](https://github.com/vijayant-pandey/orange-clinical-pipeline/actions/workflows/release.yml/badge.svg)
+
+
 # Orange Clinical Trials Data Pipeline (Python + MySQL + SQL)
 
 This project demonstrates a simple data pipeline for clinical-trial-like data:
