@@ -25,7 +25,7 @@ def main():
         sys.exit(1)
 
     row_count = len(df)
-    if row_count != 9999:
+    if row_count != 10000:
         print(f"❌ Row count should be 10000 but got {row_count}")
         sys.exit(1)
 
