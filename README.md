@@ -21,3 +21,5 @@ This project demonstrates a simple data pipeline for clinical-trial-like data:
 ## Phase 1: Generate CSV
 ```bash
 python src/generate/generate_trials.py
+
+Demo change to trigger CI
