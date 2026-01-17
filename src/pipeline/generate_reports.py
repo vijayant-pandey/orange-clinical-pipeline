@@ -43,7 +43,7 @@ def main():
     # Simple HTML summary (looks good in interviews)
     html_path = os.path.join(OUT_DIR, "summary.html")
     with open(html_path, "w", encoding="utf-8") as f:
-        # f.write("<html><head><meta charset='utf-8'><title>Clinical Pipeline Report</title></head><body>")
+        f.write("<html><head><meta charset='utf-8'><title>Clinical Pipeline Report</title></head><body>")
         f.write("<h1>Clinical Trials Pipeline - Summary (Auto Deployed)</h1>")
         f.write("<h1>Clinical Trials Pipeline - Summary</h1>")
         f.write("<p>This report was generated automatically from the raw CSV dataset.</p>")
